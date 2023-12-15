@@ -38,4 +38,4 @@ A simple and powerful Python Encryptor that ensures the security of your sensiti
 just run file:
 
 ```bash
-python3 encryptor.py
+python3 cry.py
