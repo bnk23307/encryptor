@@ -2,7 +2,7 @@
 
 
 
-A simple and powerful Python Encryptor that ensures the security of your sensitive data using state-of-the-art encryption algorithms.
+A simple and powerful Python Encryptor that ensures the security of your sensitive data using AES encryption algorithms.
 
 ## Features
 
