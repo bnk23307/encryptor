@@ -32,11 +32,6 @@ A simple and powerful Python Encryptor that ensures the security of your sensiti
     cd encryptor
     ```
 
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
