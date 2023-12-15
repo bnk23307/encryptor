@@ -1,6 +1,6 @@
 # Python Encryptor
 
-![Project Logo](link_to_your_logo.png)
+
 
 A simple and powerful Python Encryptor that ensures the security of your sensitive data using state-of-the-art encryption algorithms.
 
@@ -14,9 +14,7 @@ A simple and powerful Python Encryptor that ensures the security of your sensiti
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -24,12 +22,14 @@ A simple and powerful Python Encryptor that ensures the security of your sensiti
 
     ```bash
     git clone https://github.com/your-username/python-encryptor.git
+    pip3 install pycrypto
+    pip3 install tkinter
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd python-encryptor
+    cd encryptor
     ```
 
 3. Install the required dependencies:
@@ -40,7 +40,7 @@ A simple and powerful Python Encryptor that ensures the security of your sensiti
 
 ## Usage
 
-Encrypt a file:
+just run file:
 
 ```bash
-python encryptor.py encrypt --input file.txt --output encrypted_file.enc
+python3 encryptor.py
